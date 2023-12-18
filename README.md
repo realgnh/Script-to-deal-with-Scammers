@@ -2,7 +2,7 @@
 this is a script that wastes the money of a scammer trying to steal your cc information by putting in a cc number that is fake but validates luhn's algorithm, everytime it declines it takes $0.5-$1 from the scammer
 
 
-1. HOW TO GET THE URL OF THE WEBSITE: press right click --> inspect --> network --> you should see the url --> copy and paste it in the code
+1. HOW TO GET THE URL OF THE WEBSITE: press right click on the website you're in --> inspect --> network --> you should see the url --> copy and paste it in the code
 
 2. HOW TO GET THE DATA: fill out the fields with a random name, city --> put a cc number that validates with luhn's algorithm --> right click --> inspect --> network --> you should see something called "data" --> copy and paste in the code
 
